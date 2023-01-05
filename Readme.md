@@ -28,3 +28,12 @@ KPIs: Se deben realizar 4 KPIs y deben aparecer en el dashboard. Tener en cuenta
 Utilizando los conocimiento y herramientas aprendidos nos meteremos en el rol de un profesional de Data Analyst para poner a prueba nuestras habilidades.
 Siendo conscientes del impacto que puede tener la información obtenida en nuestro análisis, resulta sumamente importante la seriedad reflejada en el trabajo, el criterio adoptado y la correcta aplicaciòn y uso de las herramientas.
 Finalmente la lectura en conjunto de los KPIs propuestos permitirán abordar a la que será la conclusión final de la "historia" que estaremos contando y con la que cuenta la empresa para decidir si continuar con los objetivos y estrategias propuestas, o deben realizar nuevos planteos.
+<br>
+<br>
+
+## **Estructura del Repositorio**
+
+Hay 2 archivos principales: EDA y Dashboard. El primero es un notebook con el código correspondiente a la importación y transformación de los datos.
+El Dashboard es un archivo de Power BI con los datos limpios ya importados, y una presentación con 4 KPIs funcional.
+Además hay un archivo Informe EDA con la información relevante al porqué de los datos usados y los criterios para sus transformaciones.
+Por último existen dos carpetas contenedoras de los archivos CSV de donde se extrajeron los datos. En una están los archivos en bruto (nombrados para identificar a qué KPI corresponden) y en la segunda los archivos ya tienen las transformaciones y están listos para levantar en Power BI (u otro).
